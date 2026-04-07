@@ -48,15 +48,4 @@ public class Main {
         }
     }
 }
-        // Input:
-        // 4
-        // 6 13 8 28
-        //
-        // Output:
-        // Perfect
-        // Prime
-        // Neither
-        // Perfect
-
-    }
-}
+     
